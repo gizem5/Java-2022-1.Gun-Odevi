@@ -1,0 +1,7 @@
+package javaHelloWorld;
+
+public class javaHelloWorld {
+
+	System.out.println("Merhaba Java") ;
+	
+}

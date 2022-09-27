@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;datatypes.datatypes&apos; to &apos;Datatypes&apos;&#x0D;&#x0A;- Original project: &apos;datatypes&apos;&#x0D;&#x0A;- Original element: &apos;datatypes.datatypes&apos;&#x0D;&#x0A;- Renamed element: &apos;datatypes.Datatypes&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;datatypes&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;datatypes{datatypes.java[datatypes" matchStrategy="1" name="Datatypes" qualified="false" references="true" similarDeclarations="false" stamp="1664203218632" textual="false" version="1.0"/>
+</session>
